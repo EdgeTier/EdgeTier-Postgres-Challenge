@@ -1,0 +1,1 @@
+-- Find the oldest chat (by `started_at`) with at least two tags (columns: `chat_id`, `started_at`, `tag_count`).

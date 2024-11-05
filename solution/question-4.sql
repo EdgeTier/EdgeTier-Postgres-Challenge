@@ -1,0 +1,1 @@
+-- Show the top three longest chats and how much their duration differs from the client's average chat duration (columns: `client`, `chat_id`, `duration`, `duration_from_average`).

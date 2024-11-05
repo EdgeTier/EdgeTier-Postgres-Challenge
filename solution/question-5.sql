@@ -1,0 +1,1 @@
+-- For "Dangerous Airlines", count the number of "Premium" chats that are "Complaints" OR "Returns", and also what percentage of them are in English (columns: `chat_count`, `percentage_english`).

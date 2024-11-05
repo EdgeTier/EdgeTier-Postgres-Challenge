@@ -1,0 +1,1 @@
+-- Count chats per client (columns: `client`, `chat_count`).
